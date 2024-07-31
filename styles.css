@@ -1,0 +1,20 @@
+.darkBlue {
+    background-color: #006BE6;
+}
+
+.teal {
+    background-color: #00E6CD;
+}
+
+body {
+    background-color: white;
+}
+
+.col-sm-3 {
+    height: 200px;
+    width: 20%;
+}
+
+.blue {
+    background-color: #00B5E5;
+}
